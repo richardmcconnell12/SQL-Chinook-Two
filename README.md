@@ -14,9 +14,7 @@
 
 7. invoice_totals.sql: Provide a query that shows the Invoice Total, Customer name, Country and Sale Agent name for all invoices and customers.
 
-8. total_invoices_{year}.sql: How many Invoices were there in 2009 and 2011?
-
-9. total_sales_{year}.sql: What are the respective total sales for each of those years?
+8-9. total_invoices_{year}.sql: How many Invoices were there in 2009 and 2011?
 
 10. invoice_37_line_item_count.sql: Looking at the InvoiceLine table, provide a query that COUNTs the number of line items for Invoice ID 37.
 
